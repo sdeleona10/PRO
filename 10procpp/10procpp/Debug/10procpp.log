@@ -1,3 +1,0 @@
-﻿  10procpp.cpp
-C:\Users\Ubence de Leon Lopez\source\repos\10procpp\10procpp\10procpp.cpp(18,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-  10procpp.vcxproj -> C:\Users\Ubence de Leon Lopez\source\repos\10procpp\Debug\10procpp.exe
