@@ -1,0 +1,3 @@
+﻿  2procpp.cpp
+C:\Users\Ubence de Leon Lopez\source\repos\2procpp\2procpp\2procpp.cpp(12,18): warning C4305: '=': truncamiento de 'double' a 'float'
+  2procpp.vcxproj -> C:\Users\Ubence de Leon Lopez\source\repos\2procpp\Debug\2procpp.exe

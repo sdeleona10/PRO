@@ -1,0 +1,5 @@
+﻿  9procpp.cpp
+C:\Users\Ubence de Leon Lopez\source\repos\9procpp\9procpp\9procpp.cpp(18,12): warning C4305: '*=': truncamiento de 'double' a 'float'
+C:\Users\Ubence de Leon Lopez\source\repos\9procpp\9procpp\9procpp.cpp(19,12): warning C4305: '*=': truncamiento de 'double' a 'float'
+C:\Users\Ubence de Leon Lopez\source\repos\9procpp\9procpp\9procpp.cpp(20,12): warning C4305: '*=': truncamiento de 'double' a 'float'
+  9procpp.vcxproj -> C:\Users\Ubence de Leon Lopez\source\repos\9procpp\Debug\9procpp.exe
